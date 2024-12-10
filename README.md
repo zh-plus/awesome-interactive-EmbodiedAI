@@ -12,15 +12,15 @@
 ### 2D part segmentation
 
 1. [facebookresearch/VLPart: [ICCV2023\] VLPart: Going Denser with Open-Vocabulary Part Segmentation](https://github.com/facebookresearch/VLPart)
-   ![image-20241210170813139](assets\VLPart.png)
+   ![image-20241210170813139](assets/VLPart.png)
 
 2. [UX-Decoder/Semantic-SAM: [ECCV 2024\] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"](https://github.com/UX-Decoder/Semantic-SAM)
 
-   ![image-20241210171245036](assets\Semantic-SAM.png)
+   ![image-20241210171245036](assets/Semantic-SAM.png)
 
 
 
 ### Embodied interactive segmentation
 
 1. [FANG-Xiaolin/uncos](https://github.com/FANG-Xiaolin/uncos)
-   ![](assets\uncos.png)
+   ![](assets/uncos.png)
