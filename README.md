@@ -24,3 +24,23 @@
 
 1. [FANG-Xiaolin/uncos](https://github.com/FANG-Xiaolin/uncos)
    ![](assets/uncos.png)
+2. [Functionality understanding and segmentation in 3D scenes](https://jcorsetti.github.io/fun3du/)
+   ![Fun3DU](assets\Fun3DU.png)
+
+
+
+### Embodied Interactable 3D Generation
+
+1. [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://physcene.github.io/)
+   ![teaser_compress](assets\teaser_compress.png)
+
+
+
+
+
+### Others
+
+#### Navigation
+
+1. [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://hovsg.github.io/)
+   ![teaser-icra](assets\teaser-icra.png)
