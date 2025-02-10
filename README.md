@@ -1,7 +1,7 @@
 ### 2D semantic segmentation
 
 1. [Text4Seg: Reimagining Image Segmentation as Text Generation](https://mc-lan.github.io/Text4Seg/)
-   ![text4seg](assets\text4seg.png)
+   ![text4seg](assets/text4seg.png)
 
 
 
@@ -17,7 +17,7 @@
 5. [Prompt Depth Anything](https://promptda.github.io/)
    - [DepthAnything/PromptDA: Prompt Depth Anything](https://github.com/DepthAnything/PromptDA)
    - [rerun-io/prompt-da: PromptDepthAnything example](https://github.com/rerun-io/prompt-da)
-     ![promptda-github-demo](assets\promptda-github-demo.gif)
+     ![promptda-github-demo](assets/promptda-github-demo.gif)
 
 
 
@@ -31,18 +31,18 @@
    ![image-20241210171245036](assets/Semantic-SAM.png)
 
 3. Part-CLIPseg: [Official PyTorch Implementation of PartCLIPSeg](https://github.com/kaist-cvml/part-clipseg) [NIPS 2024]
-   ![part_clipseg](assets\part_clipseg.png)
+   ![part_clipseg](assets/part_clipseg.png)
 
 
 
 ### 3D part segmentation
 
 1. [3x2: 3D Object Part Segmentation by 2D Semantic Correspondences](https://rehg.org/publication/pub40/) [ECCV 2024]
-   ![3x3](assets\3x3.png)
+   ![3x3](assets/3x3.png)
 2. [PartSTAD: 2D-to-3D Part Segmentation Task Adaptation](https://partstad.github.io/) [ECCV 2024]
-   ![PartSTAD](assets\PartSTAD.png)
+   ![PartSTAD](assets/PartSTAD.png)
 3. [PartSLIP](https://colin97.github.io/PartSLIP_page/) [ECCV 2023]
-   ![part-slip](assets\part-slip.png)
+   ![part-slip](assets/part-slip.png)
 
 
 
@@ -53,7 +53,7 @@
 2. [Functionality understanding and segmentation in 3D scenes](https://jcorsetti.github.io/fun3du/)
    ![Fun3DU](assets/Fun3DU.png)
 3. [SceneFun3D](https://scenefun3d.github.io/) [CVPR 2024 Oral]
-   ![sceneFun3D](assets\sceneFun3D.jpg)
+   ![sceneFun3D](assets/sceneFun3D.jpg)
 
 
 
