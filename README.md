@@ -15,9 +15,16 @@
    - [ayushjain1144/odin: Code for the paper: "ODIN: A Single Model for 2D and 3D Segmentation" (CVPR 2024)](https://github.com/ayushjain1144/odin)
 4. [Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels](https://segment3d.github.io/)
 5. [Prompt Depth Anything](https://promptda.github.io/)
+   
    - [DepthAnything/PromptDA: Prompt Depth Anything](https://github.com/DepthAnything/PromptDA)
    - [rerun-io/prompt-da: PromptDepthAnything example](https://github.com/rerun-io/prompt-da)
      ![promptda-github-demo](assets/promptda-github-demo.gif)
+   
+6. [Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering](https://drprojects.github.io/supercluster)
+
+   - https://github.com/drprojects/superpoint_transformer
+
+     ![SPT](assets/SPT.png)
 
 
 
