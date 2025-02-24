@@ -9,22 +9,51 @@
 
 1. SegmentAnything3D
    - [Pointcept/SegmentAnything3D: [ICCV'23 Workshop\] SAM3D: Segment Anything in 3D Scenes](https://github.com/Pointcept/SegmentAnything3D)
+   
 2. PvT
    - [Pointcept/Pointcept: Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24 Oral), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)](https://github.com/Pointcept/Pointcept)
+   
 3. ODIN
    - [ayushjain1144/odin: Code for the paper: "ODIN: A Single Model for 2D and 3D Segmentation" (CVPR 2024)](https://github.com/ayushjain1144/odin)
+   
 4. [Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels](https://segment3d.github.io/)
-5. [Prompt Depth Anything](https://promptda.github.io/)
-   
-   - [DepthAnything/PromptDA: Prompt Depth Anything](https://github.com/DepthAnything/PromptDA)
-   - [rerun-io/prompt-da: PromptDepthAnything example](https://github.com/rerun-io/prompt-da)
-     ![promptda-github-demo](assets/promptda-github-demo.gif)
-   
+
 6. [Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering](https://drprojects.github.io/supercluster)
 
    - https://github.com/drprojects/superpoint_transformer
 
      ![SPT](assets/SPT.png)
+   
+6. [Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2406.02548) [ICLR 2025 Oral]
+
+   - [ICLR 2025 (Oral 📢) \] Our OpenYOLO3D model achieves state-of-the-art performance in Open Vocabulary 3D Instance Segmentation on ScanNet200 and Replica datasets with up ∼16x speedup compared to the best existing method in literature.](https://github.com/aminebdj/OpenYOLO3D?tab=readme-ov-file)
+     ![openyolo3d](assets/openyolo3d.png)
+
+7. [EmbodiedSAM: Online Segment Any 3D Thing in Real Time](https://xuxw98.github.io/ESAM/) [ICLR 2025 Oral]
+
+   - [ICLR 2025, Oral\] EmbodiedSAM: Online Segment Any 3D Thing in Real Time](https://github.com/xuxw98/ESAM)
+
+     ![esam](assets/esam.png)
+
+8. [Search3D: Hierarchical Open-Vocabulary 3D Segmentation](https://arxiv.org/pdf/2409.18431) [Arxiv 2025.1]
+
+   ![search3D](assets/search3D.png)
+
+9. [OpenNeRF Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views](https://arxiv.org/pdf/2404.03650) [ICLR 2024]
+
+   -  [ICLR 2024\] OpenSet 3D Neural Scene Segmentation with Pixel-wise Features and Rendered Novel Views](https://github.com/opennerf/opennerf)
+
+10. [Vocabulary-Free 3D Instance Segmentation with Vision and Language Assistant](https://arxiv.org/pdf/2408.10652) [Arxiv 2024.8]
+
+   ![Vocab-free](assets/Vocab-free.png)
+
+
+
+### 3D caption
+
+1. [TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes](https://arxiv.org/pdf/2403.19589) [ECCV 2024]
+   - [ECCV 2024\] TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes](https://github.com/jxbbb/TOD3Cap)
+     ![todcap](assets/todcap.jpg)
 
 
 
@@ -73,7 +102,26 @@
 
 ### Others
 
+### Survey
+
+1. [When LLMs step into the 3D World A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/pdf/2405.10255) [2024.5]
+
+
+
 #### Navigation
 
 1. [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://hovsg.github.io/)
    ![teaser-icra](assets/teaser-icra.png)
+
+
+
+### Depth Estimation
+
+1. [Depth Anything V2](https://depth-anything-v2.github.io/) [NIPS 2024]
+   - [DepthAnything/Depth-Anything-V2: [NeurIPS 2024\] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation](https://github.com/DepthAnything/Depth-Anything-V2)
+2. [Video Depth Anything](https://videodepthanything.github.io/) [Arxiv 2025.1]
+   - [DepthAnything/Video-Depth-Anything: Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://github.com/DepthAnything/Video-Depth-Anything)
+3. [Prompt Depth Anything](https://promptda.github.io/) [Arxiv 2024.12]
+   - [DepthAnything/PromptDA: Prompt Depth Anything](https://github.com/DepthAnything/PromptDA)
+   - [rerun-io/prompt-da: PromptDepthAnything example](https://github.com/rerun-io/prompt-da)
+     ![promptda-github-demo](assets/promptda-github-demo.gif)
