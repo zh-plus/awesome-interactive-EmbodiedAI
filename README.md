@@ -47,6 +47,9 @@
 
    ![Vocab-free](assets/Vocab-free.png)
 
+11. [SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Instance Segmentation](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) [3DV 2025]
+    ![SAMPro3D](assets/SAMPro3D.jpg)
+
 
 
 ### 3D caption
@@ -93,6 +96,19 @@
 
 
 
+### 3D Affordance Detection
+
+1. [3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds](https://arxiv.org/pdf/2502.20041) [ICLR 2025]
+   ![3DALLM](assets/3DALLM.png)
+
+
+
+### 3D Intention Grounding (Detection)
+
+1. [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention](https://github.com/WeitaiKang/Intent3D) [ICLR2025]
+
+
+
 ### Embodied Interactable 3D Generation
 
 1. [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://physcene.github.io/)
@@ -105,6 +121,12 @@
 ### Survey
 
 1. [When LLMs step into the 3D World A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/pdf/2405.10255) [2024.5]
+
+
+
+### 3D Feature Extraction
+
+1. [Duoduo CLIP: Efficient 3D Understanding with Multi-View Images](https://github.com/3dlg-hcvc/DuoduoCLIP) [ICLR 2025]
 
 
 
