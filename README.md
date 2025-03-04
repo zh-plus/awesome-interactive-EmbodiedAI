@@ -82,6 +82,8 @@
    ![PartSTAD](assets/PartSTAD.png)
 3. [PartSLIP](https://colin97.github.io/PartSLIP_page/) [ECCV 2023]
    ![part-slip](assets/part-slip.png)
+4. [SAMPart3D](https://yhyang-myron.github.io/SAMPart3D-website/) [Arxiv 2024.10]
+   ![SAMPart3D](assets/SAMPart3D.png)
 
 
 
