@@ -49,6 +49,12 @@
 
 11. [SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Instance Segmentation](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) [3DV 2025]
     ![SAMPro3D](assets/SAMPro3D.jpg)
+12. [PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://dingry.github.io/projects/PLA) [CVPR 2023]
+    ![PLA](assets/PLA.png)
+13. [RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding](https://jihanyang.github.io/projects/RegionPLC) [CVPR 2024]
+    ![RegionPLC](assets/RegionPLC.png)
+14. [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://ywyue.github.io/AGILE3D/) [ICLR 2024]
+    ![AGILE3D](assets/AGILE3D.gif)
 
 
 
