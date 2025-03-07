@@ -93,6 +93,17 @@
 
 
 
+### 3D Physical Attributes Annotation
+
+1. [NeRF2Physics: Physical Property Understanding from Language-Embedded Feature Fields](https://ajzhai.github.io/NeRF2Physics/) [CVPR 2024]
+
+   ![NeRF2Plysics](assets/NeRF2Plysics.png)
+
+2. [PUGS: Zero-shot Physical Understanding with Gaussian Splatting](https://evernorif.github.io/PUGS/) [ICRA 2025]
+   ![PUGS](assets/PUGS.png)
+
+
+
 ### Embodied interactive/interactable segmentation
 
 1. [FANG-Xiaolin/uncos](https://github.com/FANG-Xiaolin/uncos)
