@@ -156,6 +156,22 @@
 
 
 
+
+
+### Room Segmentation
+
+1. [Semantic Layering in Room Segmentation via LLMs]([SeLRos](https://sites.google.com/view/selros)) [IROS 2024]
+   ![SeLRoS](assets/SeLRoS.png)
+
+
+
+### 3D Scene Graph
+
+1. [ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning](https://concept-graphs.github.io/))
+   ![concept-graphs](assets/concept-graphs.png)
+
+
+
 ### Depth Estimation
 
 1. [Depth Anything V2](https://depth-anything-v2.github.io/) [NIPS 2024]
