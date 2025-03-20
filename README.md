@@ -57,6 +57,11 @@
     ![AGILE3D](assets/AGILE3D.gif)
 
 
+### Multi-granularity segmentation
+1. [GARField:Group Anything with Radiance Fields](https://www.garfield.studio/) [CVPR2024]
+    ![GARField](assets/GARField.png)
+
+
 
 ### 3D caption
 
