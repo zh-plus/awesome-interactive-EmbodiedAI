@@ -55,6 +55,7 @@
     ![RegionPLC](assets/RegionPLC.png)
 14. [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://ywyue.github.io/AGILE3D/) [ICLR 2024]
     ![AGILE3D](assets/AGILE3D.gif)
+15. [Scale Disparity of Instances in Interactive Point Cloud Segmentation](https://arxiv.org/pdf/2407.14009) [IROS 2024]
 
 
 ### Multi-granularity segmentation
