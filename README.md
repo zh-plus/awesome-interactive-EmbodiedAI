@@ -55,6 +55,8 @@
     ![RegionPLC](assets/RegionPLC.png)
 14. [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://ywyue.github.io/AGILE3D/) [ICLR 2024]
     ![AGILE3D](assets/AGILE3D.gif)
+15. [iSeg: Interactive 3D Segmentation via Interactive Attention](https://threedle.github.io/iSeg/) [SIGGRAPH Asia 2024]
+    ![iseg](assets/iseg.png)
 
 
 
@@ -122,9 +124,10 @@
 
 
 
-### 3D Intention Grounding (Detection)
+### 3D Grounding (Detection/Intention)
 
-1. [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention](https://github.com/WeitaiKang/Intent3D) [ICLR2025]
+1. [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention](https://github.com/WeitaiKang/Intent3D) [ICLR 2025]
+1. [SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding]([SeeGround](https://seeground.github.io/)) [CVPR 2025]
 
 
 
