@@ -55,8 +55,14 @@
     ![RegionPLC](assets/RegionPLC.png)
 14. [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://ywyue.github.io/AGILE3D/) [ICLR 2024]
     ![AGILE3D](assets/AGILE3D.gif)
-15. [iSeg: Interactive 3D Segmentation via Interactive Attention](https://threedle.github.io/iSeg/) [SIGGRAPH Asia 2024]
+15. [Scale Disparity of Instances in Interactive Point Cloud Segmentation](https://arxiv.org/pdf/2407.14009) [IROS 2024]
+16. [iSeg: Interactive 3D Segmentation via Interactive Attention](https://threedle.github.io/iSeg/) [SIGGRAPH Asia 2024]
     ![iseg](assets/iseg.png)
+
+
+### Multi-granularity segmentation
+1. [GARField:Group Anything with Radiance Fields](https://www.garfield.studio/) [CVPR2024]
+    ![GARField](assets/GARField.png)
 
 
 
