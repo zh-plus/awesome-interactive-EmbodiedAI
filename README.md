@@ -133,7 +133,7 @@
 ### 3D Grounding (Detection/Intention)
 
 1. [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention](https://github.com/WeitaiKang/Intent3D) [ICLR 2025]
-1. [SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding]([SeeGround](https://seeground.github.io/)) [CVPR 2025]
+1. [SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding](https://seeground.github.io/) [CVPR 2025]
    ![see_ground](assets/see_ground.png)
 
 
