@@ -98,7 +98,8 @@
    ![part-slip](assets/part-slip.png)
 4. [SAMPart3D](https://yhyang-myron.github.io/SAMPart3D-website/) [Arxiv 2024.10]
    ![SAMPart3D](assets/SAMPart3D.png)
-
+5. [PARIS3D](https://arxiv.org/pdf/2404.03836) [ECCV 2024]
+   ![paris3d](assets/PARIS3D.png)
 
 
 ### 3D Physical Attributes Annotation
