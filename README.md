@@ -1,10 +1,3 @@
-### 3D object detection
-
-1. [SpatialLM: Large Language Model for Spatial Understanding](https://manycore-research.github.io/SpatialLM/)
-   ![spatialLLM](assets/spatialLLM.jpg)
-
-
-
 ### 2D semantic segmentation
 
 1. [Text4Seg: Reimagining Image Segmentation as Text Generation](https://mc-lan.github.io/Text4Seg/)
@@ -105,7 +98,7 @@
    ![part-slip](assets/part-slip.png)
 4. [SAMPart3D](https://yhyang-myron.github.io/SAMPart3D-website/) [Arxiv 2024.10]
    ![SAMPart3D](assets/SAMPart3D.png)
-5. [PARIS3D](https://arxiv.org/pdf/2404.03836) [ECCV 2024]
+5. [PARIS3D: Reasoning-based 3D Part Segmentation Using Large Multimodal Model](https://arxiv.org/pdf/2404.03836) [ECCV 2024]
    ![paris3d](assets/PARIS3D.png)
 
 
@@ -157,6 +150,8 @@
 
 1. [Sonata: Self-Supervised Learning of Reliable Point Representations](https://xywu.me/sonata/) [CVPR 2025]
    ![sonata](assets/sonata.png)
+2. [SpatialLM: Large Language Model for Spatial Understanding](https://manycore-research.github.io/SpatialLM/)
+   ![spatialLLM](assets/spatialLLM.jpg)
 
 
 
