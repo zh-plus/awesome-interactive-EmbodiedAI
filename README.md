@@ -1,3 +1,10 @@
+### 3D object detection
+
+1. [SpatialLM: Large Language Model for Spatial Understanding](https://manycore-research.github.io/SpatialLM/)
+   ![spatialLLM](assets/spatialLLM.jpg)
+
+
+
 ### 2D semantic segmentation
 
 1. [Text4Seg: Reimagining Image Segmentation as Text Generation](https://mc-lan.github.io/Text4Seg/)
@@ -142,6 +149,15 @@
 
 1. [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://physcene.github.io/)
    ![teaser_compress](assets/teaser_compress.png)
+
+
+
+### 3D Visual Understanding
+
+1. [Sonata: Self-Supervised Learning of Reliable Point Representations](https://xywu.me/sonata/) [CVPR 2025]
+   ![sonata](assets/sonata.png)
+
+
 
 
 
