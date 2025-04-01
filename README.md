@@ -64,6 +64,12 @@
 1. [GARField:Group Anything with Radiance Fields](https://www.garfield.studio/) [CVPR2024]
     ![GARField](assets/GARField.png)
 
+2. [3D Segmentation of Humans in Point Clouds with Synthetic Data](https://human-3d.github.io/)[CVPR2023]
+![Human3D](assets/Human3D.png)
+
+### 3D Synthetic Data
+1. [Pre-training with 3D Synthetic Data](https://arxiv.org/pdf/2503.24229)
+![Synthetic](assets/Synthetic.png)
 
 
 ### 3D caption
